@@ -52,9 +52,10 @@ I thrive on bridging the gap between elegant user experiences and robust, high-p
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirostom1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alirostom1&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirostom1&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
