@@ -47,5 +47,5 @@ I thrive on bridging the gap between elegant user experiences and robust, high-p
 
 Feel free to reach out—I'm always open to discussing tech, collaborations, or a challenging new project.
 
-* **LinkedIn:** [https://www.linkedin.com/in/ali-rostom-64221733b/]
-* **Email:** [ali.rostom220@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/ali-rostom-64221733b/
+* **Email:** ali.rostom220@gmail.com
