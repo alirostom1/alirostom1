@@ -1,4 +1,4 @@
-# Hello World! I'm [Your Name] 👋
+# Hello World! I'm Ali 👋
 
 ### A Versatile Full-Stack Architect with a Focus on Scalability
 
