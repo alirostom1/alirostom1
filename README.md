@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!%20I'm%20Ali%20👋&fontAlign=50&fontAlignY=30&height=250&fontSize=50&section=header)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20!%20I'm%20Ali%20👋&fontAlign=50&fontAlignY=30&height=250&fontSize=50&section=header)
 
 ## 🚀 A Versatile Full-Stack Architect with a Focus on Scalability
 
